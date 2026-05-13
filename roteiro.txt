@@ -40,6 +40,50 @@ O homem pedra fecha a cara, ele está furioso com você.
 [FASE1_GANHO]
 O homem pedra dá um sorriso simpático, ele parece feliz com sua vitória.
 - Meus parabéns! Você provou seu valor, vamos, pegue isso.
-Ele lhe entrega uma adaga brilhante, a luz do reflexo encadeia seus olhos, parece metal puro...  continuacao futura
+Ele lhe entrega uma adaga brilhante, a luz do reflexo encadeia seus olhos, parece metal puro... Você agora possui a Adaga mágica!
+De repente, um som de algo se mexendo toma conta de um dos cantos da parede, um monte folhas e raizes caem, revelando um slime que estava adomercido, atrás de uma porta bloqueada. Ele grita para você, mas parece meramente inofensivo.
+- Tente atacar ele, monstros podem receber danos. - diz o homem pedra.
+Você o ataca com sua espada, o slime sente a dor e corre, liberando a passagem. Você finalmente aprendeu a atacar.
+- Use essa espada com sabedoria, você precisará dela nas próximas salas.
 
-[FASE 2 E ASSIM POR DIANTE - pode ignorar, ainda em teste]
+[FASE2]
+Você avançou para próxima sala, ela parece um castelo abandonado, tem um cheiro estranho de mofo e a umidade é sentida pelo ar. Quando você olha para trás a porta fecha, e as 4 paredes se fecham contra você, todas de tijolos azul e algumas barras de ferro soltas. Tudo está escuro, você vê mais uma vez que uma pedra está do outro lado da parede, você chega perto e decide atacar, mas é só uma pedra. De repente uma coisa bate forte em sua cabeça, uma duas três vezes. Ai!
+- Achou mesmo que sairia tão fácil da minha sala? Hahahaha, nunca sairá daqui se não acertar minhas perguntas! - e lhe ataca novamente.
+- Quem é você? Onde está?
+De repente suas asas são resguardadas, e um meio homem meio morcego aparece na escuridão com um sorriso maldoso, ele olha para você e volta a voar. 
+- Não consegue me atacar!? Hahahahah.
+
+[FASE2_PERDA]
+O morcego te olha de cima, você mal tem forças para se levantar, ele dança em cima da sua perda.
+- Você é fraco! Mais fraco do que eu pensei. Hahahaha!
+
+[FASE2_GANHO]
+O homem morcego cai no chão, suas asas estão machucadas e ele mal consegue se mexer.
+- Tá bom! Tá bom! Pare, poupe-me da dor! Você provou seu valor. Mas espere, tome isso.
+O homem morcego lhe dá um escudo de mão.
+- Seus ataques são bons! Mas você precisa de defesa! Tome cuidado na próxima fase.
+Você o deixa para trás e as portas se abrem, você segue para a fase seguinte.
+
+[FASE3]
+Você entra na terceira sala, sente terra em seus pés, o que é isso? Você dá mais um passo e... cuidado! A sala está cheia de água! Parece até um oceano, peixes nadam de lá para cá naquela água azul e algas tomam conta da vegetação. De frente, você percebe que tem outros pedaços de terra que te levam a uma porta, mas provavelmente deve estar fechada. Você pula para o da frente e então... AI! Alguma coisa bate na sua cabeça, você olha para cima, nada de homem morcego. De repente uma voz doce toma conta do local.
+- Não não não! - canta a voz doce. - Ele sempre foi um aluno mal, um aluno mal! - cantarola.
+- Quem está aí? E que cantaria é essa? - Então você nota um corpo grande nadando para lá e para cá.
+- Eu sou a sereia Selene. - Ela some em uma das plataformas. É belissima, mas carrega toda a maldade no coração. - Achou que atravessaria tão fácil? Não não não. Não sem antes passar por mim! * Continuo depois
+
+[FASE3_PERDA]
+A ESCREVER
+
+[FASE3_GANHO]
+A SER ESCCRITO
+
+[FASE4]
+das
+
+[FASE4_PERDA]
+PERDEUHIHI
+
+[FASE4_GANHO]
+THE WINNER TAKES IT ALL!
+
+[FINAL_GAME]
+EBAA

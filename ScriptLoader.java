@@ -36,7 +36,7 @@ public class ScriptLoader {
         }
     }
 
-    public String getTexto(String tag) {
+    public String getText(String tag) {
         return blocosRoteiro.getOrDefault(tag, "Texto não encontrado: " + tag);
     }
 }
