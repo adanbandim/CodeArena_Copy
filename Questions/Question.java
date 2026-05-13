@@ -5,6 +5,7 @@ public class Question {
     private String resposta;
     private int score;
 
+    // Construtor
     public Question(String enunciado, String[] alternativas, String resposta, int score) {
         this.enunciado = enunciado;
         this.alternativas = alternativas;
